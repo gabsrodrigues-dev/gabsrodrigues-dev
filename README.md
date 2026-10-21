@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gabriel Rodrigues</h1>
 <p align="center">
   <b>Full-Stack Developer · Software Engineer · AI & Automation</b><br/>
-  Ipatinga, Minas Gerais, Brazil 🇧🇷 · Remote
+  Ipatinga, Minas Gerais, Brazil 🇧🇷
 </p>
 
 <p align="center">
   <a href="https://gabs.com.br"><img src="https://img.shields.io/badge/Portfolio-gabs.com.br-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/gabsrodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-gabsrodrigues--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gabsrodrigues-dev"><img src="https://img.shields.io/badge/LinkedIn-gabsrodrigues--dev-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
   <a href="mailto:contato@gabs.com.br"><img src="https://img.shields.io/badge/Email-contato@gabs.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
