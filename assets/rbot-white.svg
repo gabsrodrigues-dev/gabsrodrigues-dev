@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 478 470">
+  <!-- RBot face (cs-admin/public/logos/rbot), redrawn with plain shapes so the eyes stay round at icon sizes -->
+  <g fill="#ffffff">
+    <circle cx="238.4" cy="47.5" r="47.5"/>
+    <rect x="219.8" y="87.4" width="35.7" height="54.3"/>
+    <circle cx="159.6" cy="303.9" r="50"/>
+    <circle cx="317.3" cy="303.9" r="50"/>
+  </g>
+  <rect x="32.9" y="171.5" width="411.2" height="264.9" rx="70" fill="none" stroke="#ffffff" stroke-width="65.2"/>
+</svg>
