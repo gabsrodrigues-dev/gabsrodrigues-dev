@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" role="img" aria-label="RBot: SaaS for humanized mass WhatsApp messaging using multiple LLMs, vector knowledge and 50+ simultaneous chips. 2,650% ROI.">
+  <title>RBot</title>
+  <desc>SaaS for humanized mass WhatsApp messaging using multiple LLMs, vector knowledge and 50+ simultaneous chips. 2,650% ROI.</desc>
+  <rect x="0.5" y="0.5" width="419" height="149" rx="16" fill="#0D1117" stroke="#30363D"/>
+  <rect x="0.5" y="0.5" width="6" height="149" rx="3" fill="#3B82F6"/>
+  <g font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif">
+    <text x="24" y="38" font-size="18" font-weight="700" fill="#E6EDF3">RBot</text>
+    <rect x="354" y="22" width="42" height="22" rx="11" fill="#3B82F6" fill-opacity="0.15" stroke="#3B82F6" stroke-opacity="0.6"/>
+    <text x="375.0" y="37" font-size="11" font-weight="600" fill="#3B82F6" text-anchor="middle">SaaS</text>
+    <text x="24" y="58" font-size="12" fill="#3B82F6">rbot.com.br</text>
+    <text x="24" y="86" font-size="13" fill="#9DA7B3"><tspan x="24" dy="0">SaaS for humanized mass WhatsApp messaging using multiple</tspan><tspan x="24" dy="18">LLMs, vector knowledge and 50+ simultaneous chips. 2,650%</tspan><tspan x="24" dy="18">ROI.</tspan></text>
+  </g>
+</svg>

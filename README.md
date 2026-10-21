@@ -21,6 +21,14 @@ Pragmatic, results-driven full-stack developer with **4+ years** of experience b
 
 ## Featured projects
 
+<p align="center">
+  <a href="https://arara.code.app.br"><img src="./assets/cards/arara-code.svg" width="49%" alt="Arara Code: what I'm building right now"/></a>
+  <a href="https://rbot.com.br"><img src="./assets/cards/rbot.svg" width="49%" alt="RBot: SaaS for humanized mass WhatsApp messaging using multiple LLMs"/></a>
+  <a href="https://copiei.com"><img src="./assets/cards/copiei.svg" width="49%" alt="Copiei.com: instant, temporary universal clipboard between devices"/></a>
+  <img src="./assets/cards/crm-whatsapp.svg" width="49%" alt="WhatsApp CRM Extension: WhatsApp Web extension integrated with a CRM"/>
+  <img src="./assets/cards/ai-agent.svg" width="49%" alt="Educational AI Agent: AI assistant for personalized student support"/>
+</p>
+
 | Project | Description |
 | --- | --- |
 | [Arara Code](https://arara.code.app.br) | What I'm building right now. |
